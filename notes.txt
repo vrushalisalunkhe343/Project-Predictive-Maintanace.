@@ -1,0 +1,50 @@
+13oct2025
+
+1.problem statement
+2.data collection
+3.EDA
+
+4.feature engineering---
+scaling
+encoding
+
+5.model building/hyperparameter tunning --> grid search
+
+6.pipeline--
+save model
+
+7.deployment
+
+*************Document for project************
+
+project title
+1.project overview
+objective
+business content
+2.project scope
+in scope
+out of scope
+3.stakeholders
+4.functional requirement (optional)
+5.non functional requirement (optional)
+performance
+scalability
+security
+usability
+
+6.dataset
+source
+description
+notes
+
+7.technical requirement
+8.project milestones---like submission deadline
+9.Risks and mitigation
+10.sucess criteria
+11. Documentation and Deliverable
+
+**************In SQL**********
+
+how to connect in python
+create database
+use
