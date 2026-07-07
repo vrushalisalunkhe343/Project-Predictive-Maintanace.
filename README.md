@@ -163,14 +163,20 @@ Predictive-Maintenance/
 - Cloud Deployment
 ## 📷 Project Screenshots
 
+## 📸 Project Screenshots
+
 ### Dataset
 
-<img src="[images/dataset.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20171901.png)" width="1000"/>
+![Dataset](images/dataset.png)
+
+---
 
 ### Machine Learning Pipeline
 
-<img src="[images/pipeline.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172737.png)" width="700"/>
+![Pipeline](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172737.png)
+
+---
 
 ### Model Performance
 
-<img src="[images/model_results.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172705.png)" width="900"/>
+![Model Performance](images/model_results.png)
