@@ -161,13 +161,11 @@ Predictive-Maintenance/
 - Real-Time Sensor Data Prediction
 - Interactive Dashboard using Power BI or Streamlit
 - Cloud Deployment
-## 📷 Project Screenshots
-
 ## 📸 Project Screenshots
 
 ### Dataset
 
-![Dataset](images/dataset.png)
+![Dataset](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20171901.png)
 
 ---
 
@@ -179,4 +177,4 @@ Predictive-Maintenance/
 
 ### Model Performance
 
-![Model Performance](images/model_results.png)
+![Model Performance](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172705.png)
