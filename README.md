@@ -165,12 +165,12 @@ Predictive-Maintenance/
 
 ### Dataset
 
-<img src="images/dataset.png" width="1000"/>
+<img src="[images/dataset.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20171901.png)" width="1000"/>
 
 ### Machine Learning Pipeline
 
-<img src="images/pipeline.png" width="700"/>
+<img src="[images/pipeline.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172737.png)" width="700"/>
 
 ### Model Performance
 
-<img src="images/model_results.png" width="900"/>
+<img src="[images/model_results.png](https://github.com/vrushalisalunkhe343/Project-Predictive-Maintanace./blob/main/Screenshot%202026-07-07%20172705.png)" width="900"/>
